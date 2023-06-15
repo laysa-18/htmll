@@ -1,0 +1,8 @@
+table, th, td{
+    text-align: center;
+    border-style: solid;
+    border-color: blue;
+    border-collapse: collapse;
+    background-color:rgb(136, 190, 217);
+}
+
